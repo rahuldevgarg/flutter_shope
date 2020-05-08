@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">302003995998-4kguomkkvj4mmbblb1lrvel3uo724lrl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flutter-shope.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">302003995998</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvxYqBM4L9LkRn_vQgEJI_lzg6K2FHaiQ</string>
+    <string name="google_app_id" translatable="false">1:302003995998:android:965d4be954165926dffbcf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvxYqBM4L9LkRn_vQgEJI_lzg6K2FHaiQ</string>
+    <string name="google_storage_bucket" translatable="false">flutter-shope.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-shope</string>
+</resources>

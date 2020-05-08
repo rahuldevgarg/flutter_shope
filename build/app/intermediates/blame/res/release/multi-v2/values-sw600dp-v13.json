@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dev/StudioProjects/flutter_shop/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/dev/.gradle/caches/transforms-2/files-2.1/748b19800cf73bff3bc7ecbb4e1a8bac/checkout-1.5.4/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,13",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,745"
+                    }
+                }
+            ]
+        }
+    ]
+}
